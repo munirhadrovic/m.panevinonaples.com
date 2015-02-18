@@ -63,7 +63,7 @@
                                 dugme.innerHTML="<img src='images/location.png' alt='location' style='float:left;'><p style='margin-top: 14px;'>Find US</p>";
                                 prostordugme.appendChild(dugme);
                             }
-                            else if (ua.indexOf("BlackBerry") >= 0)
+                            else if (ua.indexOf("BlackBerry") >= 0)   
                                     {
                                       
                                         console.log("Blakberu je prosao ");
