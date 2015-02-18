@@ -34,9 +34,12 @@
             <li><span>Image 06</span><div><h3></h3></div></li>
             <!-- test comment for YouTrack tasks-->
             <!-- test comment for YouTrack tasks-->
+
+            <!-- test comment for GitHub tasks-->
+            <!-- test comment for GitHub tasks-->
         </ul>
         <div class="container">
-                     
+
             <header>
                 <h1> <img src="images/panevino.png" alt="logo" style="width:100%;"></h1>                    
                     <div id="findUSposition">
