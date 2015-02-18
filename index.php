@@ -66,7 +66,6 @@
                             }
                             else if (ua.indexOf("BlackBerry") >= 0)
                                     {
-                                      
                                         console.log("Blakberu je prosao ");
                                         console.log("Blakberu je prosao ")
                                         var prostordugme=document.getElementById('findUS');
