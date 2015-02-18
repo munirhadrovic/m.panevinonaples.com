@@ -45,6 +45,9 @@
                         
                         <div id="findUS">
                             <script>
+
+
+                                <!--Pene san remo changes - test from phpstorm-->
                             var ua = navigator.userAgent;
                             if(/Android|webOS|Opera Mini/i.test(navigator.userAgent) ) {
                                 console.log("Android uslo");
