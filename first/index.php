@@ -296,6 +296,8 @@
                     <section>
                         <h1>Established 1996</h1>
                     </section>
+                    
+                    <!-- Test Comment for Eclipse - GitHub --> 
           </div>
 
         </div>

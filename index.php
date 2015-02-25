@@ -33,7 +33,7 @@
             <li><span>Image 05</span><div><h3></h3></div></li>
             <li><span>Image 06</span><div><h3></h3></div></li>
             <!-- test comment for YouTrack tasks-->
-            <!-- test comment for YouTrack tasks-->
+            <!-- test comment for YouTrack tasks-->   
         </ul>
         <div class="container">
                      
