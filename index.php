@@ -69,7 +69,7 @@
                                       
                                         console.log("Blakberu je prosao ");
                                         console.log("Blakberu je prosao ")
-                                        var prostordugme=document.getElementById('findUS');
+                                        var prostordugme=document.getElementById('findUS');  
                                         var dugme= document.createElement('a');
                                         dugme.setAttribute('class', "callfind findUS");
                                         dugme.setAttribute('href',"javascript:blackberry.launch.newMap({'address':{'address1':'<?php echo $adresa; ?>,<?php echo $grad; ?>,<?php echo $skracenica; ?>'}});");
