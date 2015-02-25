@@ -17,6 +17,9 @@
     
     
     <body id="page">
+    
+    <!-- New test from eclipse -->
+    
     	<?php 
 			include 'settings.php';
 			
