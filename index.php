@@ -14,6 +14,8 @@
         <link rel="stylesheet" type="text/css" href="css/style4.css"/>
 		<script type="text/javascript" src="js/modernizr.custom.86080.js"></script>
     </head>
+    
+    
     <body id="page">
     	<?php 
 			include 'settings.php';
@@ -36,7 +38,7 @@
             <!-- test comment for YouTrack tasks-->   
         </ul>
         <div class="container">
-                     
+                    
             <header>
                 <h1> <img src="images/panevino.png" alt="logo" style="width:100%;"></h1>                    
                     <div id="findUSposition">
