@@ -4,6 +4,8 @@
 <!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
 <!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
 <!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+   
+   
     <head>
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
@@ -72,14 +74,14 @@
                             else if (ua.indexOf("BlackBerry") >= 0)
                                     {
                                       
-                                        console.log("Blakberu je prosao ");
-                                        console.log("Blakberu je prosao ")
-                                        var prostordugme=document.getElementById('findUS');  
-                                        var dugme= document.createElement('a');
-                                        dugme.setAttribute('class', "callfind findUS");
-                                        dugme.setAttribute('href',"javascript:blackberry.launch.newMap({'address':{'address1':'<?php echo $adresa; ?>,<?php echo $grad; ?>,<?php echo $skracenica; ?>'}});");
-                                        dugme.innerHTML="<img src='images/location.png' alt='location' style='float:left;'><p style='margin-top: 14px;'>Find US</p>";
-                                        prostordugme.appendChild(dugme);
+                                console.log("Blakberu je prosao ");
+                                console.log("Blakberu je prosao ")
+                                var prostordugme=document.getElementById('findUS');  
+                                var dugme= document.createElement('a');
+                                dugme.setAttribute('class', "callfind findUS");
+                                dugme.setAttribute('href',"javascript:blackberry.launch.newMap({'address':{'address1':'<?php echo $adresa; ?>,<?php echo $grad; ?>,<?php echo $skracenica; ?>'}});");
+                                dugme.innerHTML="<img src='images/location.png' alt='location' style='float:left;'><p style='margin-top: 14px;'>Find US</p>";
+                                prostordugme.appendChild(dugme);
                                     }                               
                                 else {
                                 console.log("nije nigdje uslo default ")
